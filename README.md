@@ -24,3 +24,7 @@ The objective of this project is to implement a deep learning model for image cl
 - ## Task Description
 
 As part of Internship Task-2, a deep learning model was developed using TensorFlow to perform image classification. The MNIST dataset was used to train and test the model. The task involved data preprocessing, model building, training, evaluation, and visualization of results.
+
+## OutPut
+<img width="1920" height="986" alt="Image" src="https://github.com/user-attachments/assets/e87bbc99-8ddb-4466-a619-03bd92c14328" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ac20faa8-93ea-444b-b3fc-3890439ca5bb" />
